@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel<br>🌱 I’m currently learning JavaScprit<br>
+🔭 **Currently Working On:** Developing high-performance full-stack web applications using **Angular** and **Laravel**.
+
 
 
 ## 🌐 Socials:
